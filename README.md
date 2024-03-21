@@ -1,4 +1,4 @@
-`wget https://github.com/Freepoint24/wireguard-install/blob/master/wireguard-install.sh -O wireguard-install.sh && bash wireguard-install.sh`
+`wget https://github.com/Freepoint24/wireguard-install/blob/master/wireguard-install.sh && bash wireguard-install.sh`
 
 
 ## wireguard-install
